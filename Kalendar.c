@@ -34,12 +34,5 @@ void printCalendar(int year, int month) {
 }
 
 int main() {
-    int year, month;
-
-    printf("Unesite mesec i godinu (npr. 9 2023): ");
-    scanf("%d %d", &month, &year);
-
-    printCalendar(year, month);
-
-    return 0;
+   
 }
